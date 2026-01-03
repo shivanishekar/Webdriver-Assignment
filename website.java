@@ -1,3 +1,5 @@
+// 2. Program to check if website landed successfully using Title (PASS / FAIL)
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
